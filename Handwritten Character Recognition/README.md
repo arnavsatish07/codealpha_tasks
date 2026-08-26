@@ -1,0 +1,1 @@
+Task 3 implements MNIST handwritten digit recognition using TensorFlow/Keras CNN. The MNIST dataset is loaded by the notebook. An offline scikit-learn digits demo is included only for package inspection.
