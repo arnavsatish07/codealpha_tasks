@@ -1,0 +1,1 @@
+CodeAlpha Task 1: Credit Scoring Model. Reproducible financial-history dataset, feature engineering, Logistic Regression, Decision Tree, Random Forest, and evaluation metrics.
