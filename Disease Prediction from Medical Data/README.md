@@ -1,0 +1,1 @@
+Task 4 uses the scikit-learn breast-cancer dataset and implements Logistic Regression, Decision Tree and Random Forest with Accuracy, Precision, Recall, F1 and ROC-AUC. Educational use only.
