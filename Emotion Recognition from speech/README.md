@@ -1,0 +1,1 @@
+Task 2 implements the genuine RAVDESS + librosa MFCC + TensorFlow CNN pipeline. The official audio dataset is not redistributed. A synthetic MFCC-shaped demo is included only for offline inspection.
